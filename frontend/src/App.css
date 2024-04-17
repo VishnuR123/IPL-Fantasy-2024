@@ -1,0 +1,121 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 32px;
+  text-align: center;
+}
+/* Points table flex */
+.container{
+  height: 350px;
+  display: flex;
+  flex-direction:column;
+  flex-wrap:wrap; 
+  margin-top: 20px;
+}
+.divider {
+  width: 2px; /* Width of the vertical line */
+  background: #ccc;
+}
+.spacer{
+  width:20px;
+}
+form{
+  display: inline;
+  align-self: center;
+}
+.main-con{
+  max-width: 80%;
+  margin:0 auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.box {
+  width: calc(50% - 1px); /* Subtract 1px to account for the border */
+  padding: 20px;
+  box-sizing: border-box;
+}
+/* .box-1{
+  background-color: #36256E;
+}
+.box-2{
+  background-color: #E73493;
+} */
+/* All Player Data */
+.master{
+  width: 70%;
+  margin: 0 auto;
+}
+/* individual team searcher */
+input{
+  width: 180px;
+  height: 50px;
+  border-radius: 8px;
+  /* margin-left:10px ; */
+  margin-right: 10px;
+  /* padding-left: 17px; */
+  border: 1px solid transparent;
+  font-size: 1em;
+  text-align: center;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #ffffff;
+  cursor: pointer;
+  transition: border-color 0.15s;
+  color: black;
+}
+.ind{
+  width: 100%;
+  margin: 0;
+  margin-left:20px ;
+  margin-top: 20px;
+}
+
+table{
+  width: 50%;
+  margin-left:20%;
+}
+th {
+  text-align: left;
+  padding: 4px;
+}td {
+  text-align: left;
+  padding: 4px;
+}
+tr:hover {
+  background-color: #535bf2;
+}
+.CSK:hover{
+  background-color:#ffcb05;
+}
+.DC:hover{
+  background-color:#2561ae;
+}
+.GT:hover{
+  background-color:#77c7f2;
+  
+}
+.KKR:hover{
+  background-color:#28204a;
+}
+.LSG:hover{
+  background-color:#0983e7;
+}
+.MI:hover{
+  background-color:#0248bc;
+}
+.PBKS:hover{
+  background-color:#d71920;
+}
+.RCB:hover{
+  background-color:rgb(20, 20, 20);
+}
+.RR:hover{
+  background-color:#ff4081;
+}
+.SRH:hover{
+  background-color:#f26522;
+}
+
+
+

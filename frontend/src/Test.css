@@ -1,0 +1,125 @@
+/* Team checker css */
+
+.card-container{
+    width: 100%;
+    margin: 0 auto;
+    padding: 10px;
+    border-radius: 40px;
+    border: 1px solid #242020; 
+    background-color: #1a1a1a;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.team-container{
+    width: 70%;
+    height: auto;
+    margin: 30px auto;
+    /* border: 1px solid rgb(255, 7, 7);  */
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.Card{
+  /* flex-basis: calc(20% -2px); */
+  width: 130px;
+  box-sizing: border-box; 
+  height: auto;
+  border-radius: 5%;
+  margin: 2px;
+  background-color:#242424;
+  text-align: center;
+}
+.name{
+  padding: auto;
+  margin-top: 7px;
+  margin-bottom: 10px;
+  margin-left: 0;
+  margin-right: 0;
+}
+.players{
+  font-weight: 400;
+  font-size: smaller;
+  padding: 0;
+}
+.card-tr{
+  padding: 0;
+  margin: 0;
+}
+.card-table{
+  margin: 0 auto;
+  margin-bottom: 20px;
+  text-align: center;
+  
+}
+.highlighted-text{
+  background-color: white;
+  color: black;
+}
+.normal-button{
+  max-width: 150px;border-style: none;
+  
+}
+  .CSK1{
+    background-color:#ffcb05;
+    color:#151c2e;
+    max-width: 150px;
+    border-style: none;
+  }
+  .DC1{
+    background-color:#2561ae;
+    color: #b9251c;
+    max-width: 150px;
+    border-style: none;
+  }
+  .GT1{
+    background-color:#77c7f2;  
+    color: #0e1b31;
+    max-width: 150px;
+    border-style: none;
+  }
+  .KKR1{
+    background-color:#28204a; 
+    color: #ecc542;
+    max-width: 150px;
+    border-style: none;
+  }
+  .LSG1{
+    background-color:#133166;
+    color: #eb7e53;
+    /* color: #; */
+    max-width: 150px;
+    border-style: none;
+  }
+  .MI1{
+    background-color:#0248bc;  
+    /* color:#2d6ab1 ; */
+    color:#FFD700 ;
+    max-width: 150px;
+    border-style: none;
+  }
+  .PBKS1{
+    background-color:#d71920;  
+    color: #273665;
+    max-width: 150px;
+    border-style: none;
+  }
+  .RR1{
+    background-color:#ff4081;
+    color:#052753;
+    max-width: 150px;border-style: none;
+  }
+  .RCB1{
+    /* background-color:#2b2a29; */
+    background-color:rgb(20, 20, 20);
+    color: #db1316;
+    max-width: 150px;
+    border-style: none;
+  }
+  .SRH1{
+    background-color:#f26522;
+    color: #712324;
+    max-width: 150px;border-style: none;
+  }
