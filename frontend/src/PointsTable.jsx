@@ -38,6 +38,7 @@ export default function PointsTable(props){
         //saran
         if(person.personName==="Saran"){
           person.points+=1760;
+          person.points-=69; //rachin ravindra pts
         }
         //sathish took mayank yadav later
         if(person.personName==="Sathish"){
