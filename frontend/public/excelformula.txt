@@ -1,2 +1,0 @@
-Points - =VALUE(MID(C2, 2, LEN(C2)-6))
-Details - =LEFT(B2, FIND(" (", B2) - 1)
