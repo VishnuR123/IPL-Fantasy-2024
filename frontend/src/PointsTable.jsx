@@ -64,6 +64,7 @@ export default function PointsTable(props){
         //yukesh
         if(person.personName==="Yukesh"){
           person.points+=2712;
+          person.points-=138 //Jack Fraser-Mcgurk pts
         }
 
       }
