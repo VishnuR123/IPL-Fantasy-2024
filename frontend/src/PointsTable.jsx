@@ -145,7 +145,7 @@ export default function PointsTable(props) {
         difference: item2 ? item2.points - item1.points : 0
       };
     });
-    const sortedResultData = [...tempResultArray].sort((a, b) => b.points - a.points);
+    const sortedResultData = [...tempResultArray].sort((a, b) => b.difference - a.difference);
     setResultArray(sortedResultData);
   };
   const handleInputChange = (e) => {
