@@ -1,7 +1,7 @@
 [
   {
     "personName": "Subu",
-    "points": 7503,
+    "points": 7545,
     "players": [
       "Alzarri Joseph",
       "Khaleel Ahmed",
@@ -24,34 +24,8 @@
     ]
   },
   {
-    "personName": "Vishnu",
-    "points": 7372,
-    "players": [
-      "Prasidh Krishna",
-      "Harshit Rana",
-      "Spencer Johnson",
-      "Anrich Nortje",
-      "Yuzvendra Chahal",
-      "Karn Sharma",
-      "Chetan Sakariya",
-      "Noor Ahmad",
-      "Sanju Samson",
-      "Simran Singh",
-      "Abhishek Porel",
-      "Shreyas Iyer",
-      "David Warner",
-      "David Miller",
-      "Jason Roy",
-      "Philip Salt",
-      "Pat Cummins",
-      "Axar Patel",
-      "Harshal Patel",
-      "Mahipal Lomror"
-    ]
-  },
-  {
     "personName": "Shriman",
-    "points": 7184.5,
+    "points": 7437.5,
     "players": [
       "Jasprit Bumrah",
       "Kagiso Rabada",
@@ -75,8 +49,34 @@
     ]
   },
   {
+    "personName": "Vishnu",
+    "points": 7409,
+    "players": [
+      "Prasidh Krishna",
+      "Harshit Rana",
+      "Spencer Johnson",
+      "Anrich Nortje",
+      "Yuzvendra Chahal",
+      "Karn Sharma",
+      "Chetan Sakariya",
+      "Noor Ahmad",
+      "Sanju Samson",
+      "Simran Singh",
+      "Abhishek Porel",
+      "Shreyas Iyer",
+      "David Warner",
+      "David Miller",
+      "Jason Roy",
+      "Phil Salt",
+      "Pat Cummins",
+      "Axar Patel",
+      "Harshal Patel",
+      "Mahipal Lomror"
+    ]
+  },
+  {
     "personName": "Yukesh",
-    "points": 7060.5,
+    "points": 7179.5,
     "players": [
       "Mukesh Kumar",
       "Ravi Bishnoi",
@@ -101,7 +101,7 @@
   },
   {
     "personName": "Shashwat",
-    "points": 6286,
+    "points": 6300,
     "players": [
       "Varun Chakravarthy",
       "Rahul Chahar",
@@ -127,7 +127,7 @@
   },
   {
     "personName": "Saran",
-    "points": 5729.5,
+    "points": 5735.5,
     "players": [
       "Deepak Chahar",
       "Mohammed Siraj",
@@ -154,7 +154,7 @@
   },
   {
     "personName": "Sanjay",
-    "points": 5114,
+    "points": 5184,
     "players": [
       "Mitchell Starc",
       "Trent Boult",
@@ -179,7 +179,7 @@
   },
   {
     "personName": "Sathish",
-    "points": 4903,
+    "points": 4963,
     "players": [
       "Avesh Khan",
       "Shivam Mavi",
