@@ -48,18 +48,19 @@ export default function PointsTable(props) {
       //sanjay
       if (person.personName === "Sanjay") {
         person.points += 2497;
+        person.points-=447;//Nithish reddy pts
       }
       //saran
       if (person.personName === "Saran") {
         person.points += 1760;
         person.points -= 69; //rachin ravindra pts
       }
-      //sathish took mayank yadav later
+      //sathish
       if (person.personName === "Sathish") {
         person.points += 1546.5;
         // person.points-=182;
       }
-      //shashwat took Azmatullah Omarzai later
+      //shashwat
       if (person.personName === "Shashwat") {
         person.points += 2141;
       }

@@ -1,7 +1,7 @@
 [
   {
     "personName": "Subu",
-    "points": 8342,
+    "points": 8403,
     "players": [
       "Alzarri Joseph",
       "Khaleel Ahmed",
@@ -24,33 +24,8 @@
     ]
   },
   {
-    "personName": "Shriman",
-    "points": 8063.5,
-    "players": [
-      "Jasprit Bumrah",
-      "Kagiso Rabada",
-      "Dilshan Madushanka",
-      "Nuwan Thushara",
-      "Jaydev Unadkat",
-      "Kartik Tyagi",
-      "Mohit Sharma",
-      "Matheesha Pathirana",
-      "Jos Buttler",
-      "Anuj Rawat",
-      "Sameer Rizvi",
-      "Faf du Plessis",
-      "Travis Head",
-      "Cameron Green",
-      "Krunal Pandya",
-      "Venkatesh Iyer",
-      "Deepak Hooda",
-      "Tilak Varma",
-      "Ayush Badoni"
-    ]
-  },
-  {
     "personName": "Vishnu",
-    "points": 8006.5,
+    "points": 8150.5,
     "players": [
       "Prasidh Krishna",
       "Harshit Rana",
@@ -75,8 +50,33 @@
     ]
   },
   {
+    "personName": "Shriman",
+    "points": 8105.5,
+    "players": [
+      "Jasprit Bumrah",
+      "Kagiso Rabada",
+      "Dilshan Madushanka",
+      "Nuwan Thushara",
+      "Jaydev Unadkat",
+      "Kartik Tyagi",
+      "Mohit Sharma",
+      "Matheesha Pathirana",
+      "Jos Buttler",
+      "Anuj Rawat",
+      "Sameer Rizvi",
+      "Faf du Plessis",
+      "Travis Head",
+      "Cameron Green",
+      "Krunal Pandya",
+      "Venkatesh Iyer",
+      "Deepak Hooda",
+      "Tilak Varma",
+      "Ayush Badoni"
+    ]
+  },
+  {
     "personName": "Yukesh",
-    "points": 7640.5,
+    "points": 7889,
     "players": [
       "Mukesh Kumar",
       "Ravi Bishnoi",
@@ -127,7 +127,7 @@
   },
   {
     "personName": "Saran",
-    "points": 6495.5,
+    "points": 6524.5,
     "players": [
       "Deepak Chahar",
       "Mohammed Siraj",
@@ -154,7 +154,7 @@
   },
   {
     "personName": "Sanjay",
-    "points": 5748,
+    "points": 5849,
     "players": [
       "Mitchell Starc",
       "Trent Boult",
