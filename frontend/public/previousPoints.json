@@ -1,7 +1,7 @@
 [
   {
     "personName": "Subu",
-    "points": 8403,
+    "points": 8426,
     "players": [
       "Alzarri Joseph",
       "Khaleel Ahmed",
@@ -25,7 +25,7 @@
   },
   {
     "personName": "Vishnu",
-    "points": 8150.5,
+    "points": 8341.5,
     "players": [
       "Prasidh Krishna",
       "Harshit Rana",
@@ -76,7 +76,7 @@
   },
   {
     "personName": "Yukesh",
-    "points": 7889,
+    "points": 7891,
     "players": [
       "Mukesh Kumar",
       "Ravi Bishnoi",
@@ -101,7 +101,7 @@
   },
   {
     "personName": "Shashwat",
-    "points": 6855.5,
+    "points": 7059.5,
     "players": [
       "Varun Chakravarthy",
       "Rahul Chahar",
@@ -127,7 +127,7 @@
   },
   {
     "personName": "Saran",
-    "points": 6524.5,
+    "points": 6591.5,
     "players": [
       "Deepak Chahar",
       "Mohammed Siraj",
@@ -154,7 +154,7 @@
   },
   {
     "personName": "Sanjay",
-    "points": 5849,
+    "points": 6123,
     "players": [
       "Mitchell Starc",
       "Trent Boult",
@@ -174,12 +174,13 @@
       "Ravichandran Ashwin",
       "Mohammad Nabi",
       "Vijay Shankar",
-      "Sikandar Raza"
+      "Sikandar Raza",
+      "Nithish Reddy"
     ]
   },
   {
     "personName": "Sathish",
-    "points": 5404,
+    "points": 5469,
     "players": [
       "Avesh Khan",
       "Shivam Mavi",
