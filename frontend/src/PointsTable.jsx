@@ -67,10 +67,12 @@ export default function PointsTable(props) {
       //shriman
       if (person.personName === "Shriman") {
         person.points += 2574.5;
-      }
+        person.points -= 4;      
+}
       //subu
       if (person.personName === "Subu") {
         person.points += 3101;
+        person.points -= 6;
       }
       //vishnu took Harshit Rana later
       if (person.personName === "Vishnu") {
